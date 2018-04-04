@@ -1,0 +1,22 @@
+{
+  "name": "fetch-mock-5",
+  "version": "1.0.0",
+  "description": "Fetch-mock-5 reexport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theKashey/fetch-mock-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theKashey/fetch-mock-5/issues"
+  },
+  "homepage": "https://github.com/theKashey/fetch-mock-5#readme",
+  "dependencies": {
+    "fetch-mock": "^5.0.0"
+  }
+}
