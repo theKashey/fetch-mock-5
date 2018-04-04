@@ -1,6 +1,6 @@
 {
   "name": "fetch-mock-5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch-mock-5 reexport",
   "main": "index.js",
   "scripts": {
