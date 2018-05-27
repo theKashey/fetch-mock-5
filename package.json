@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/theKashey/fetch-mock-5#readme",
   "dependencies": {
-    "fetch-mock": "^5.0.0"
+    "fetch-mock": "^6.4.2"
   }
 }
